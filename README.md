@@ -4,9 +4,8 @@ Objetivo: **Migrando carreira para Desenvolvedor Back-End Java**
 
 ## FORMAÇÃO ACADÊMICA
 
-    UNIVERSIDADE PAULISTA - UNIP
- 
-    *Curso Superior de Técnologia em Redes de Computadores*
+- UNIVERSIDADE PAULISTA - UNIP
+    - *Curso Superior de Técnologia em Redes de Computadores, 2012*
 
 
 ## PERFIL PROFISSIONAL 
