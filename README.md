@@ -1,16 +1,25 @@
-### Hi there 👋
+# **AMILTON ROSA DA CRUZ**
+Objetivo: **Migrando carreira para Desenvolvedor Back-End Java**
 
-<!--
-**amiltonrosa/amiltonrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## FORMAÇÃO ACADÊMICA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    UNIVERSIDADE PAULISTA - UNIP
+ 
+    *Curso Superior de Técnologia em Redes de Computadores*
+
+
+## PERFIL PROFISSIONAL 
+
+Técnico em Informática com mais de 15 anos de experiências na área de Manutenção de Computadores, executando configuração, instalação e manutenção em Desktops, Notebooks, Tablet e Smartphones. Obtendo conhecimento em hardware e software para executar manutenção preventiva, afim de evitar que determinados erros ocorram e manutenção corretiva para solucionar os erros encontrados. Conhecimentos em implantação e configuração de redes de computadores, para compartilhar serviços e recurso físico que incluem dados, impressoras e rotinas de backup.
+
+## RESUMO DE EXPERIÊNCIA E QUALIFICAÇÕES EM INFORMÁTICA
+
+- Conhecicmento básico em HTML5, CSS3 e Javascript.
+- Conhecimento básico em Java, Servlet, JSP, JPA, Hibernate, Thymelife, Spring MVC e Spring Boot.
+- Conhecimento básico em versionamento de código usando Git e GtitHub.
+- Experiência em instalação, configuração e operação dos sistemas operacionais da Microsoft Windows.
+- Experiência em instalação, configuração e administraçao do sistemas operacionais Linux (Slackware, Debian, Ubuntu).
+- Conhecimentos intermediário em Redes de Computadores.
+- Nível intermediário em Eletrônica.
+- Inglês Técnico intermediário.
