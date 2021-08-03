@@ -1,5 +1,5 @@
-# **AMILTON ROSA DA CRUZ**
-Objetivo: **Migrando carreira para Desenvolvedor Back-End Java**
+# OBJETIVO
+- **Migrando carreira para Desenvolvedor Back-End Java**
 
 
 ## FORMAÇÃO ACADÊMICA
