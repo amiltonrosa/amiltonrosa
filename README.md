@@ -14,7 +14,7 @@ Técnico em Informática com mais de 15 anos de experiências na área de Manute
 
 ## RESUMO DE EXPERIÊNCIA E QUALIFICAÇÕES EM INFORMÁTICA
 
-- Conhecicmento básico em HTML5, CSS3 e Javascript.
+- Conhecimento básico em HTML5, CSS3 e Javascript.
 - Conhecimento básico em Java, Servlet, JSP, JPA, Hibernate, Thymelife, Spring MVC e Spring Boot.
 - Conhecimento básico em versionamento de código usando Git e GtitHub.
 - Experiência em instalação, configuração e operação dos sistemas operacionais da Microsoft Windows.
