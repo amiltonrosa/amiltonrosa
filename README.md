@@ -1,5 +1,5 @@
 # OBJETIVO
-- **Migrando carreira para Desenvolvedor Back-End Java**
+- **TÉCNICO EM HARDWARE & REDES**
 
 
 ## FORMAÇÃO ACADÊMICA
