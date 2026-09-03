@@ -4,8 +4,8 @@
 
 ## FORMAÇÃO ACADÊMICA
 
-- UNIVERSIDADE PAULISTA - UNIP
-    - *Curso Superior de Técnologia em Redes de Computadores, 2012*
+- UniFECAF
+    - *Curso Superior de Técnologia em Análise e Desenvolvimento de Sistemas, 2026*
 
 
 ## PERFIL PROFISSIONAL 
